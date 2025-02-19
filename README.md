@@ -35,6 +35,8 @@ A visually appealing and **fully responsive** restaurant landing page designed t
    ```
 3. Open `index.html` in your browser.  
 
+## Hosted link
+ https://neha-meharin.github.io/restaurant-site/
 
 
 
