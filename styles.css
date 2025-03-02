@@ -88,26 +88,49 @@
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   }
   
-  
-  .img-2{
+  .img-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    padding-right: 50px;
+    /* Full viewport height */
+}
+
+.rotate-img {
+    width: 400px; /* Adjust the size as needed */
+    height: auto;
+    animation: rotate 10s linear infinite;
+    
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+  /*.img-2{
     height:100%;
     padding-left:70px;
     width:100%;
     max-width:500px;
     border-radius: 50%;
    
-  }
+  } */
   
   .img-1 img {
     max-width: 75%;
     height: auto;
     border-radius: 50%;
   }
-  .img-2 img {
+  /*.img-2 img {
     max-width: 75%;
     height: auto;
     border-radius: 50%;
-  }
+  } */
   .para-1 h1,.para-2 h1{
     color: orangered;
   }
