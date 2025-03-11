@@ -25,16 +25,7 @@ A visually appealing and **fully responsive** restaurant landing page designed t
 - **Icons:** Font Awesome  
 - **Effects:** Box Shadows, Hover Animations, Grid Layout  
 
-## 📌 Installation & Usage  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/Neha-meharin/product-landing-page
-   ```
-2. Navigate to the project folder:  
-   ```sh
-   cd product-landing-page
-   ```
-3. Open `index.html` in your browser.  
+
 
 ## Hosted link
  https://neha-meharin.github.io/restaurant-site/
