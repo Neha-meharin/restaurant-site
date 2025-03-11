@@ -14,7 +14,8 @@ A visually appealing and **fully responsive** restaurant landing page designed t
 
 ## 🖼 Preview  
 ![Screenshot 2025-02-12 234505](https://github.com/user-attachments/assets/984332fa-8c2d-42a7-9eb7-d7910d9b1c0a)
-  ![Screenshot 2025-02-12 234618](https://github.com/user-attachments/assets/207469c8-9f2d-4ad4-96f5-7e47960a6f31)
+![image](https://github.com/user-attachments/assets/8bbe4971-e360-4bd2-bfd7-2c95a7c5a87f)
+
 ![Screenshot 2025-02-12 234635](https://github.com/user-attachments/assets/1694647a-774a-44c7-ab55-d189d81c79d5)
 
 
